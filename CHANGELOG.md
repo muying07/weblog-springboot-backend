@@ -1,0 +1,226 @@
+- [2022-09-02] feat(cache): 实现Guava本地缓存
+- [2022-09-04] feat(api): 添加文章管理 分类管理 标签管理 评论管理 统计功能API端点
+- [2022-09-06] docs(readme): 更新技术栈说明
+- [2022-09-08] refactor(util): 重构Guava工具类
+- [2022-09-10] feat(security): 实现基于JWT的认证授权
+- [2022-09-10] fix(security): 修复Spring Security配置漏洞
+- [2022-09-13] refactor(service): 重构文件上传 文件下载 存储桶管理 文件元数据服务层
+- [2022-09-15] feat(cache): 实现Guava本地缓存
+- [2022-09-17] feat(api): 添加用户管理 角色管理 权限管理 日志审计 系统监控API端点
+- [2022-09-17] fix(storage): 解决Minio分片上传问题
+- [2022-09-19] feat(storage): 集成Minio对象存储服务
+- [2022-09-20] fix(search): 修正Elasticsearch索引映射
+- [2022-09-21] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-24] refactor(exception): 统一全局异常处理
+- [2022-09-25] docs(api): 完善Swagger接口文档
+- [2022-09-27] chore(ci): 配置Maven构建流程
+- [2022-09-27] fix(search): 修正Elasticsearch索引映射
+- [2022-09-28] feat(cache): 实现Guava本地缓存
+- [2022-10-01] perf(search): 提升Elasticsearch查询性能
+- [2022-10-02] feat(cache): 实现Guava本地缓存
+- [2022-10-03] feat(security): 实现基于JWT的认证授权
+- [2022-10-05] feat(security): 实现基于JWT的认证授权
+- [2022-10-06] feat(security): 实现基于JWT的认证授权
+- [2022-10-08] docs(config): 补充配置说明
+- [2022-10-10] feat(api): 添加文章搜索 标签搜索 内容索引 搜索建议API端点
+- [2022-10-11] docs(entity): 添加用户管理 角色管理 权限管理 日志审计 系统监控实体类注释
+- [2022-10-12] docs(entity): 添加文章搜索 标签搜索 内容索引 搜索建议实体类注释
+- [2022-10-13] feat(search): 实现Elasticsearch全文搜索
+- [2022-10-15] perf(validation): 优化Hibernate Validator校验效率
+- [2022-10-17] feat(cache): 实现Guava本地缓存
+- [2022-10-19] feat(storage): 集成Minio对象存储服务
+- [2022-10-20] fix(validation): 修复Hibernate Validator异常处理
+- [2022-10-22] feat(storage): 集成Minio对象存储服务
+- [2022-10-23] feat(security): 实现基于JWT的认证授权
+- [2022-10-24] perf(search): 提升Elasticsearch查询性能
+- [2022-10-24] fix(db): 解决MyBatis Plus多租户问题
+- [2022-10-25] feat(cache): 实现Guava本地缓存
+- [2022-10-26] fix(db): 解决MyBatis Plus多租户问题
+- [2022-10-28] feat(cache): 实现Guava本地缓存
+- [2022-10-29] fix(security): 修复Spring Security配置漏洞
+- [2022-10-30] chore(ci): 配置Maven构建流程
+- [2022-11-01] chore(config): 添加文件上传 文件下载 存储桶管理 文件元数据配置项
+- [2022-11-02] feat(storage): 集成Minio对象存储服务
+- [2022-11-05] perf(db): 优化HikariCP连接池参数
+- [2022-11-06] fix(db): 解决MyBatis Plus多租户问题
+- [2022-11-07] feat(security): 实现基于JWT的认证授权
+- [2022-11-07] fix(validation): 修复Hibernate Validator异常处理
+- [2022-11-08] fix(storage): 解决Minio分片上传问题
+- [2022-11-10] refactor(util): 重构Guava工具类
+- [2022-11-11] perf(logging): 改进Logback日志配置
+- [2022-11-14] docs(readme): 更新技术栈说明
+- [2022-11-16] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-17] feat(storage): 集成Minio对象存储服务
+- [2022-11-19] feat(cache): 实现Guava本地缓存
+- [2022-11-20] feat(storage): 集成Minio对象存储服务
+- [2022-11-23] refactor(util): 重构Guava工具类
+- [2022-11-25] perf(search): 提升Elasticsearch查询性能
+- [2022-11-27] feat(api): 添加文章搜索 标签搜索 内容索引 搜索建议API端点
+- [2022-11-30] perf(db): 优化HikariCP连接池参数
+- [2022-12-03] perf(search): 提升Elasticsearch查询性能
+- [2022-12-04] feat(cache): 实现Guava本地缓存
+- [2022-12-05] fix(search): 修正Elasticsearch索引映射
+- [2022-12-07] feat(storage): 集成Minio对象存储服务
+- [2022-12-08] feat(search): 实现Elasticsearch全文搜索
+- [2022-12-10] feat(security): 实现基于JWT的认证授权
+- [2022-12-12] feat(storage): 集成Minio对象存储服务
+- [2022-12-12] fix(validation): 修复Hibernate Validator异常处理
+- [2022-12-15] refactor(exception): 统一全局异常处理
+- [2022-12-16] perf(db): 优化HikariCP连接池参数
+- [2022-12-17] fix(search): 修正Elasticsearch索引映射
+- [2022-12-19] feat(security): 实现基于JWT的认证授权
+- [2022-12-21] feat(storage): 集成Minio对象存储服务
+- [2022-12-23] feat(security): 实现基于JWT的认证授权
+- [2022-12-24] feat(search): 实现Elasticsearch全文搜索
+- [2022-12-26] refactor(mapper): 优化Mapstruct映射逻辑
+- [2022-09-01] fix(search): 修正Elasticsearch索引映射
+- [2022-09-01] fix(security): 修复Spring Security配置漏洞
+- [2022-09-02] refactor(db): 优化数据库连接池配置
+- [2022-09-05] refactor(db): 优化数据库连接池配置
+- [2022-09-06] refactor(util): 重构Guava工具类
+- [2022-09-07] fix(storage): 解决Minio分片上传问题
+- [2022-09-08] docs(api): 完善Swagger接口文档
+- [2022-09-09] fix(security): 修复Spring Security配置漏洞
+- [2022-09-11] feat(storage): 集成Minio对象存储服务
+- [2022-09-12] feat(api): 添加文章搜索 标签搜索 内容索引 搜索建议API端点
+- [2022-09-12] fix(db): 解决MyBatis Plus多租户问题
+- [2022-09-13] feat(cache): 实现Guava本地缓存
+- [2022-09-13] fix(security): 修复Spring Security配置漏洞
+- [2022-09-14] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-15] feat(security): 实现基于JWT的认证授权
+- [2022-09-18] docs(entity): 添加文章管理 分类管理 标签管理 评论管理 统计功能实体类注释
+- [2022-09-20] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-22] refactor(mapper): 优化Mapstruct映射逻辑
+- [2022-09-22] fix(security): 修复Spring Security配置漏洞
+- [2022-09-23] fix(db): 解决MyBatis Plus多租户问题
+- [2022-09-24] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-25] fix(db): 解决MyBatis Plus多租户问题
+- [2022-09-28] refactor(exception): 统一全局异常处理
+- [2022-09-29] feat(storage): 集成Minio对象存储服务
+- [2022-10-01] refactor(db): 优化数据库连接池配置
+- [2022-10-02] fix(security): 修复Spring Security配置漏洞
+- [2022-10-04] feat(search): 实现Elasticsearch全文搜索
+- [2022-10-06] feat(search): 实现Elasticsearch全文搜索
+- [2022-10-07] docs(entity): 添加文章管理 分类管理 标签管理 评论管理 统计功能实体类注释
+- [2022-10-07] fix(db): 解决MyBatis Plus多租户问题
+- [2022-10-08] feat(security): 实现基于JWT的认证授权
+- [2022-10-09] feat(security): 实现基于JWT的认证授权
+- [2022-10-11] feat(cache): 实现Guava本地缓存
+- [2022-10-12] fix(security): 修复Spring Security配置漏洞
+- [2022-10-15] chore(config): 添加用户管理 角色管理 权限管理 日志审计 系统监控配置项
+- [2022-10-18] chore(deps): 升级Spring Boot到用户管理 角色管理 权限管理 日志审计 系统监控
+- [2022-10-20] feat(api): 添加文章搜索 标签搜索 内容索引 搜索建议API端点
+- [2022-10-23] chore(config): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务配置项
+- [2022-10-25] perf(logging): 改进Logback日志配置
+- [2022-10-25] fix(storage): 解决Minio分片上传问题
+- [2022-10-26] feat(api): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务API端点
+- [2022-10-28] feat(storage): 集成Minio对象存储服务
+- [2022-10-30] feat(security): 实现基于JWT的认证授权
+- [2022-11-01] feat(api): 添加文章管理 分类管理 标签管理 评论管理 统计功能API端点
+- [2022-11-03] refactor(service): 重构文件上传 文件下载 存储桶管理 文件元数据服务层
+- [2022-11-04] fix(db): 解决MyBatis Plus多租户问题
+- [2022-11-05] feat(cache): 实现Guava本地缓存
+- [2022-11-07] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-08] feat(security): 实现基于JWT的认证授权
+- [2022-11-09] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-11] docs(entity): 添加文件上传 文件下载 存储桶管理 文件元数据实体类注释
+- [2022-11-12] feat(storage): 集成Minio对象存储服务
+- [2022-11-12] fix(db): 解决MyBatis Plus多租户问题
+- [2022-11-13] fix(storage): 解决Minio分片上传问题
+- [2022-11-14] refactor(db): 优化数据库连接池配置
+- [2022-11-14] fix(security): 修复Spring Security配置漏洞
+- [2022-11-15] fix(db): 解决MyBatis Plus多租户问题
+- [2022-11-18] refactor(mapper): 优化Mapstruct映射逻辑
+- [2022-11-20] perf(db): 优化HikariCP连接池参数
+- [2022-11-21] feat(storage): 集成Minio对象存储服务
+- [2022-11-22] chore(config): 添加文件上传 文件下载 存储桶管理 文件元数据配置项
+- [2022-11-23] chore(config): 添加文章搜索 标签搜索 内容索引 搜索建议配置项
+- [2022-11-25] feat(cache): 实现Guava本地缓存
+- [2022-11-26] docs(config): 补充配置说明
+- [2022-11-27] fix(validation): 修复Hibernate Validator异常处理
+- [2022-11-28] fix(security): 修复Spring Security配置漏洞
+- [2022-11-30] chore(config): 添加文章搜索 标签搜索 内容索引 搜索建议配置项
+- [2022-12-02] chore(config): 添加文章管理 分类管理 标签管理 评论管理 统计功能配置项
+- [2022-12-02] fix(storage): 解决Minio分片上传问题
+- [2022-12-04] docs(readme): 更新技术栈说明
+- [2022-12-07] refactor(service): 重构文章搜索 标签搜索 内容索引 搜索建议服务层
+- [2022-12-08] feat(search): 实现Elasticsearch全文搜索
+- [2022-12-09] fix(db): 解决MyBatis Plus多租户问题
+- [2022-12-11] refactor(util): 重构Guava工具类
+- [2022-12-13] chore(config): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务配置项
+- [2022-09-01] fix(db): 解决MyBatis Plus多租户问题
+- [2022-09-02] feat(api): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务API端点
+- [2022-09-03] feat(security): 实现基于JWT的认证授权
+- [2022-09-04] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-06] feat(cache): 实现Guava本地缓存
+- [2022-09-07] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-08] feat(api): 添加用户管理 角色管理 权限管理 日志审计 系统监控API端点
+- [2022-09-10] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-12] docs(readme): 更新技术栈说明
+- [2022-09-15] refactor(db): 优化数据库连接池配置
+- [2022-09-17] chore(ci): 配置Maven构建流程
+- [2022-09-18] feat(api): 添加文章搜索 标签搜索 内容索引 搜索建议API端点
+- [2022-09-19] fix(search): 修正Elasticsearch索引映射
+- [2022-09-20] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-21] feat(storage): 集成Minio对象存储服务
+- [2022-09-23] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-24] feat(security): 实现基于JWT的认证授权
+- [2022-09-25] feat(security): 实现基于JWT的认证授权
+- [2022-09-26] fix(security): 修复Spring Security配置漏洞
+- [2022-09-27] feat(security): 实现基于JWT的认证授权
+- [2022-09-30] chore(ci): 配置Maven构建流程
+- [2022-10-01] fix(security): 修复Spring Security配置漏洞
+- [2022-10-02] perf(logging): 改进Logback日志配置
+- [2022-10-04] feat(security): 实现基于JWT的认证授权
+- [2022-10-04] fix(validation): 修复Hibernate Validator异常处理
+- [2022-10-07] docs(config): 补充配置说明
+- [2022-10-08] feat(api): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务API端点
+- [2022-10-09] feat(search): 实现Elasticsearch全文搜索
+- [2022-10-10] fix(validation): 修复Hibernate Validator异常处理
+- [2022-10-11] feat(search): 实现Elasticsearch全文搜索
+- [2022-10-12] fix(validation): 修复Hibernate Validator异常处理
+- [2022-10-14] chore(ci): 配置Maven构建流程
+- [2022-10-16] refactor(db): 优化数据库连接池配置
+- [2022-10-17] feat(cache): 实现Guava本地缓存
+- [2022-10-18] refactor(service): 重构认证模块 授权模块 JWT令牌管理 权限验证 加密服务服务层
+- [2022-10-21] chore(deps): 升级Spring Boot到文件上传 文件下载 存储桶管理 文件元数据
+- [2022-10-22] feat(cache): 实现Guava本地缓存
+- [2022-10-25] chore(deps): 升级Spring Boot到文件上传 文件下载 存储桶管理 文件元数据
+- [2022-10-26] feat(search): 实现Elasticsearch全文搜索
+- [2022-10-27] feat(storage): 集成Minio对象存储服务
+- [2022-10-30] refactor(service): 重构文章管理 分类管理 标签管理 评论管理 统计功能服务层
+- [2022-10-31] fix(validation): 修复Hibernate Validator异常处理
+- [2022-11-02] docs(entity): 添加文章管理 分类管理 标签管理 评论管理 统计功能实体类注释
+- [2022-11-02] fix(security): 修复Spring Security配置漏洞
+- [2022-11-03] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-04] feat(api): 添加文章管理 分类管理 标签管理 评论管理 统计功能API端点
+- [2022-11-04] fix(search): 修正Elasticsearch索引映射
+- [2022-11-05] feat(security): 实现基于JWT的认证授权
+- [2022-11-07] refactor(db): 优化数据库连接池配置
+- [2022-11-09] docs(api): 完善Swagger接口文档
+- [2022-11-11] docs(config): 补充配置说明
+- [2022-11-12] fix(search): 修正Elasticsearch索引映射
+- [2022-11-15] perf(db): 优化HikariCP连接池参数
+- [2022-11-16] fix(security): 修复Spring Security配置漏洞
+- [2022-11-16] fix(search): 修正Elasticsearch索引映射
+- [2022-11-18] feat(storage): 集成Minio对象存储服务
+- [2022-11-19] feat(cache): 实现Guava本地缓存
+- [2022-11-20] feat(storage): 集成Minio对象存储服务
+- [2022-11-21] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-23] feat(security): 实现基于JWT的认证授权
+- [2022-11-24] feat(cache): 实现Guava本地缓存
+- [2022-11-26] feat(api): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务API端点
+- [2022-11-27] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-29] refactor(exception): 统一全局异常处理
+- [2022-12-01] feat(search): 实现Elasticsearch全文搜索
+- [2022-12-02] refactor(exception): 统一全局异常处理
+- [2022-12-04] chore(config): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务配置项
+- [2022-12-05] fix(search): 修正Elasticsearch索引映射
+- [2022-12-08] refactor(mapper): 优化Mapstruct映射逻辑
+- [2022-12-09] docs(readme): 更新技术栈说明
+- [2022-12-11] feat(storage): 集成Minio对象存储服务
+- [2022-12-13] refactor(exception): 统一全局异常处理
+- [2022-12-14] feat(storage): 集成Minio对象存储服务
+- [2022-12-15] fix(search): 修正Elasticsearch索引映射
+- [2022-12-16] feat(cache): 实现Guava本地缓存
+- [2022-09-01] fix(security): 修复Spring Security配置漏洞
