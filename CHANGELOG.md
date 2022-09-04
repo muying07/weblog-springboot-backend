@@ -224,3 +224,4 @@
 - [2022-12-15] fix(search): 修正Elasticsearch索引映射
 - [2022-12-16] feat(cache): 实现Guava本地缓存
 - [2022-09-01] fix(security): 修复Spring Security配置漏洞
+- [2022-09-04] docs(api): 完善Swagger接口文档
