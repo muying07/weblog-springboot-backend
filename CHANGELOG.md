@@ -230,3 +230,4 @@
 - [2022-09-08] refactor(db): 优化数据库连接池配置
 - [2022-09-11] refactor(exception): 统一全局异常处理
 - [2022-09-14] refactor(mapper): 优化Mapstruct映射逻辑
+- [2022-09-14] fix(security): 修复Spring Security配置漏洞
