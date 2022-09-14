@@ -229,3 +229,4 @@
 - [2022-09-05] feat(storage): 集成Minio对象存储服务
 - [2022-09-08] refactor(db): 优化数据库连接池配置
 - [2022-09-11] refactor(exception): 统一全局异常处理
+- [2022-09-14] refactor(mapper): 优化Mapstruct映射逻辑
