@@ -236,3 +236,4 @@
 - [2022-09-20] feat(api): 添加文章搜索 标签搜索 内容索引 搜索建议API端点
 - [2022-09-21] refactor(mapper): 优化Mapstruct映射逻辑
 - [2022-09-23] feat(search): 实现Elasticsearch全文搜索
+- [2022-09-25] docs(entity): 添加文章管理 分类管理 标签管理 评论管理 统计功能实体类注释
