@@ -243,3 +243,4 @@
 - [2022-09-30] fix(db): 解决MyBatis Plus多租户问题
 - [2022-10-02] feat(search): 实现Elasticsearch全文搜索
 - [2022-10-04] feat(storage): 集成Minio对象存储服务
+- [2022-10-04] fix(storage): 解决Minio分片上传问题
