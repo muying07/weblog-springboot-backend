@@ -247,3 +247,4 @@
 - [2022-10-06] docs(api): 完善Swagger接口文档
 - [2022-10-07] feat(security): 实现基于JWT的认证授权
 - [2022-10-08] fix(db): 解决MyBatis Plus多租户问题
+- [2022-10-11] refactor(util): 重构Guava工具类
