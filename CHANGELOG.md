@@ -249,3 +249,4 @@
 - [2022-10-08] fix(db): 解决MyBatis Plus多租户问题
 - [2022-10-11] refactor(util): 重构Guava工具类
 - [2022-10-14] perf(logging): 改进Logback日志配置
+- [2022-10-15] chore(deps): 升级Spring Boot到文章搜索 标签搜索 内容索引 搜索建议
