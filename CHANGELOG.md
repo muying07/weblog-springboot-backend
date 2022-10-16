@@ -252,3 +252,4 @@
 - [2022-10-15] chore(deps): 升级Spring Boot到文章搜索 标签搜索 内容索引 搜索建议
 - [2022-10-15] fix(validation): 修复Hibernate Validator异常处理
 - [2022-10-15] fix(search): 修正Elasticsearch索引映射
+- [2022-10-16] fix(storage): 解决Minio分片上传问题
