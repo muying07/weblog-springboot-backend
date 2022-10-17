@@ -253,3 +253,4 @@
 - [2022-10-15] fix(validation): 修复Hibernate Validator异常处理
 - [2022-10-15] fix(search): 修正Elasticsearch索引映射
 - [2022-10-16] fix(storage): 解决Minio分片上传问题
+- [2022-10-17] feat(search): 实现Elasticsearch全文搜索
