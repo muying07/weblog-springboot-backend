@@ -256,3 +256,4 @@
 - [2022-10-17] feat(search): 实现Elasticsearch全文搜索
 - [2022-10-17] fix(security): 修复Spring Security配置漏洞
 - [2022-10-18] chore(config): 添加文件上传 文件下载 存储桶管理 文件元数据配置项
+- [2022-10-19] fix(storage): 解决Minio分片上传问题
