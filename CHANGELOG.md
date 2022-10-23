@@ -258,3 +258,4 @@
 - [2022-10-18] chore(config): 添加文件上传 文件下载 存储桶管理 文件元数据配置项
 - [2022-10-19] fix(storage): 解决Minio分片上传问题
 - [2022-10-21] feat(search): 实现Elasticsearch全文搜索
+- [2022-10-23] refactor(mapper): 优化Mapstruct映射逻辑
