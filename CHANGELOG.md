@@ -260,3 +260,4 @@
 - [2022-10-21] feat(search): 实现Elasticsearch全文搜索
 - [2022-10-23] refactor(mapper): 优化Mapstruct映射逻辑
 - [2022-10-24] fix(storage): 解决Minio分片上传问题
+- [2022-10-27] chore(deps): 升级Spring Boot到文件上传 文件下载 存储桶管理 文件元数据
