@@ -262,3 +262,4 @@
 - [2022-10-24] fix(storage): 解决Minio分片上传问题
 - [2022-10-27] chore(deps): 升级Spring Boot到文件上传 文件下载 存储桶管理 文件元数据
 - [2022-10-29] refactor(util): 重构Guava工具类
+- [2022-10-30] perf(db): 优化HikariCP连接池参数
