@@ -263,3 +263,4 @@
 - [2022-10-27] chore(deps): 升级Spring Boot到文件上传 文件下载 存储桶管理 文件元数据
 - [2022-10-29] refactor(util): 重构Guava工具类
 - [2022-10-30] perf(db): 优化HikariCP连接池参数
+- [2022-10-31] refactor(mapper): 优化Mapstruct映射逻辑
