@@ -264,3 +264,4 @@
 - [2022-10-29] refactor(util): 重构Guava工具类
 - [2022-10-30] perf(db): 优化HikariCP连接池参数
 - [2022-10-31] refactor(mapper): 优化Mapstruct映射逻辑
+- [2022-11-03] refactor(exception): 统一全局异常处理
