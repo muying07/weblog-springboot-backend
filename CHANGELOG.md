@@ -268,3 +268,4 @@
 - [2022-11-04] perf(logging): 改进Logback日志配置
 - [2022-11-07] perf(db): 优化HikariCP连接池参数
 - [2022-11-08] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-08] fix(security): 修复Spring Security配置漏洞
