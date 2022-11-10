@@ -269,3 +269,4 @@
 - [2022-11-07] perf(db): 优化HikariCP连接池参数
 - [2022-11-08] feat(search): 实现Elasticsearch全文搜索
 - [2022-11-08] fix(security): 修复Spring Security配置漏洞
+- [2022-11-10] feat(api): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务API端点
