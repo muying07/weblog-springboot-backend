@@ -272,3 +272,4 @@
 - [2022-11-10] feat(api): 添加认证模块 授权模块 JWT令牌管理 权限验证 加密服务API端点
 - [2022-11-11] refactor(mapper): 优化Mapstruct映射逻辑
 - [2022-11-14] docs(api): 完善Swagger接口文档
+- [2022-11-14] fix(security): 修复Spring Security配置漏洞
