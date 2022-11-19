@@ -275,3 +275,4 @@
 - [2022-11-14] fix(security): 修复Spring Security配置漏洞
 - [2022-11-17] refactor(mapper): 优化Mapstruct映射逻辑
 - [2022-11-18] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-19] refactor(mapper): 优化Mapstruct映射逻辑
