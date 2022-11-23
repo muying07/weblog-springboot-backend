@@ -278,3 +278,4 @@
 - [2022-11-19] refactor(mapper): 优化Mapstruct映射逻辑
 - [2022-11-20] feat(security): 实现基于JWT的认证授权
 - [2022-11-22] feat(search): 实现Elasticsearch全文搜索
+- [2022-11-23] fix(search): 修正Elasticsearch索引映射
