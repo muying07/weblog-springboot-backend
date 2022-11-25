@@ -279,3 +279,4 @@
 - [2022-11-20] feat(security): 实现基于JWT的认证授权
 - [2022-11-22] feat(search): 实现Elasticsearch全文搜索
 - [2022-11-23] fix(search): 修正Elasticsearch索引映射
+- [2022-11-25] feat(storage): 集成Minio对象存储服务
