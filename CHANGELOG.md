@@ -281,3 +281,4 @@
 - [2022-11-23] fix(search): 修正Elasticsearch索引映射
 - [2022-11-25] feat(storage): 集成Minio对象存储服务
 - [2022-11-26] feat(storage): 集成Minio对象存储服务
+- [2022-11-27] fix(security): 修复Spring Security配置漏洞
