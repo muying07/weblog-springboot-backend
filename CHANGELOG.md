@@ -282,3 +282,4 @@
 - [2022-11-25] feat(storage): 集成Minio对象存储服务
 - [2022-11-26] feat(storage): 集成Minio对象存储服务
 - [2022-11-27] fix(security): 修复Spring Security配置漏洞
+- [2022-11-28] feat(cache): 实现Guava本地缓存
