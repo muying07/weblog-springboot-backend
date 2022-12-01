@@ -284,3 +284,4 @@
 - [2022-11-27] fix(security): 修复Spring Security配置漏洞
 - [2022-11-28] feat(cache): 实现Guava本地缓存
 - [2022-12-01] refactor(service): 重构文章搜索 标签搜索 内容索引 搜索建议服务层
+- [2022-12-01] fix(search): 修正Elasticsearch索引映射
