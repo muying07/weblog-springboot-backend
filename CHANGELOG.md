@@ -286,3 +286,4 @@
 - [2022-12-01] refactor(service): 重构文章搜索 标签搜索 内容索引 搜索建议服务层
 - [2022-12-01] fix(search): 修正Elasticsearch索引映射
 - [2022-12-02] feat(cache): 实现Guava本地缓存
+- [2022-12-05] chore(deps): 升级Spring Boot到文章搜索 标签搜索 内容索引 搜索建议
