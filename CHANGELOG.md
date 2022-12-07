@@ -288,3 +288,4 @@
 - [2022-12-02] feat(cache): 实现Guava本地缓存
 - [2022-12-05] chore(deps): 升级Spring Boot到文章搜索 标签搜索 内容索引 搜索建议
 - [2022-12-06] fix(storage): 解决Minio分片上传问题
+- [2022-12-07] fix(security): 修复Spring Security配置漏洞
