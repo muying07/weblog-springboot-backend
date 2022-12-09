@@ -291,3 +291,4 @@
 - [2022-12-07] fix(security): 修复Spring Security配置漏洞
 - [2022-12-08] feat(api): 添加文章管理 分类管理 标签管理 评论管理 统计功能API端点
 - [2022-12-09] refactor(mapper): 优化Mapstruct映射逻辑
+- [2022-12-09] fix(validation): 修复Hibernate Validator异常处理
