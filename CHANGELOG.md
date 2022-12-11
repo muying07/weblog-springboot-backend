@@ -293,3 +293,4 @@
 - [2022-12-09] refactor(mapper): 优化Mapstruct映射逻辑
 - [2022-12-09] fix(validation): 修复Hibernate Validator异常处理
 - [2022-12-10] feat(security): 实现基于JWT的认证授权
+- [2022-12-11] fix(storage): 解决Minio分片上传问题
