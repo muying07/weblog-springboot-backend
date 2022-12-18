@@ -297,3 +297,4 @@
 - [2022-12-12] refactor(util): 重构Guava工具类
 - [2022-12-14] docs(config): 补充配置说明
 - [2022-12-15] perf(logging): 改进Logback日志配置
+- [2022-12-18] perf(validation): 优化Hibernate Validator校验效率
