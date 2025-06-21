@@ -42,6 +42,8 @@ docker build -t weblog-backend .
 ```
 
 📊 系统架构
+
+```mermaid
 graph LR
     A[客户端] --> B(Spring Boot应用)
     B --> C[MySQL]
@@ -52,7 +54,8 @@ graph LR
         F --> G[线程池]
         G --> H[PV统计]
     end
-
+```
 
 🔗 相关项目
+
 [前端仓库](https://github.com/muying07/weblog-vue-backend)：Vue3 管理后台 + 响应式博客
