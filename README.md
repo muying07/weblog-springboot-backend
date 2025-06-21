@@ -39,7 +39,7 @@ mvn spring-boot:run -Dspring-boot.run.profiles=dev
 
 # 构建Docker镜像
 docker build -t weblog-backend .
-
+```
 
 📊 系统架构
 graph LR
